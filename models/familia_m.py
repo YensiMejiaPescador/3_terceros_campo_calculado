@@ -8,7 +8,7 @@ class FamiliaM(models.Model):
     not_lead_user = fields.Boolean(string="Not Lead User",
                                    compute="_compute_not_lead_user",
                                    store=True)
-    my_db = fields.char(default=lambda self: self.env.cr.dbname, string="Data Base")
+    my_db = fields.Char(default=lambda self: self.env.cr.dbname, string="Data Base")
 
     @api.depends("main_user")
     def _compute_lead_user(self):
