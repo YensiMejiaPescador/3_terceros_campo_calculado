@@ -6,13 +6,9 @@
         <field name="inherit_id" ref="terceros.view_familia_m_form"/>
         <field name="arch" type="xml">
             <field name="name" position="after">
-                <field name="my_nickname"/>
-            </field>
-            <field name="relationship" position="after">
-                <field name="main_user" position="after" widget="boolean_toggle"/>
-            </field>
-            <field name="age" position="replace">
-                <field name="my_age"/>
+                <field name="lead_user" />
+                <field name="not_lead_user" />
+                <field name="my_db" />
             </field>
         </field>
     </record>
@@ -23,11 +19,9 @@
         <field name="inherit_id" ref="terceros.view_tree_familia_m"/>
         <field name="arch" type="xml">
             <field name="name" position="after">
-                <field name="my_nickname"/>
-                <field name="main_user" position="after" widget="boolean_toggle"/>
-            </field>
-            <field name="age" position="replace">
-                <field name="my_age"/>
+                <field name="lead_user" />
+                <field name="not_lead_user" />
+                <field name="my_db" />
             </field>
         </field>
     </record>
