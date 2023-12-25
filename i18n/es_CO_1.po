@@ -1,0 +1,118 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* 1_terceros
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0-20231113\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-25 02:19+0000\n"
+"PO-Revision-Date: 2023-12-25 02:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: 1_terceros
+#: model:ir.model.fields.selection,name:1_terceros.selection__familia_m__relationship__couple
+msgid "Couple"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.ui.menu,name:1_terceros.familia_m_menu
+#: model:ir.ui.menu,name:1_terceros.submenu_familia_m_action
+#: model:ir.ui.menu,name:1_terceros.submenu_familia_m_menu
+msgid "Familia"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields.selection,name:1_terceros.selection__familia_m__relationship__father
+msgid "Father"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields.selection,name:1_terceros.selection__familia_m__relationship__grandson
+msgid "Grandson"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m__id
+msgid "ID"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: 1_terceros
+#: model_terms:ir.ui.view,arch_db:1_terceros.view_familia_m_form
+msgid "M List"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields.selection,name:1_terceros.selection__familia_m__relationship__son
+msgid "Son"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields.selection,name:1_terceros.selection__familia_m__relationship__user
+msgid "User"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m__age
+msgid "age"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.actions.act_window,name:1_terceros.act_familia_m
+msgid "familia"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model,name:1_terceros.model_familia_m
+msgid "familia.m"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m__last_name
+msgid "last_name"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m__name
+msgid "name"
+msgstr ""
+
+#. module: 1_terceros
+#: model:ir.model.fields,field_description:1_terceros.field_familia_m__relationship
+msgid "relationship"
+msgstr ""
