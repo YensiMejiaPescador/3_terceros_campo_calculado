@@ -1,0 +1,36 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* 3_terceros_campo_calculado
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0-20231113\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-25 02:22+0000\n"
+"PO-Revision-Date: 2023-12-25 02:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: 3_terceros_campo_calculado
+#: model:ir.model.fields,field_description:3_terceros_campo_calculado.field_familia_m__my_db
+msgid "Data Base"
+msgstr ""
+
+#. module: 3_terceros_campo_calculado
+#: model:ir.model.fields,field_description:3_terceros_campo_calculado.field_familia_m__lead_user
+msgid "Lead User"
+msgstr ""
+
+#. module: 3_terceros_campo_calculado
+#: model:ir.model.fields,field_description:3_terceros_campo_calculado.field_familia_m__not_lead_user
+msgid "Not Lead User"
+msgstr ""
+
+#. module: 3_terceros_campo_calculado
+#: model:ir.model,name:3_terceros_campo_calculado.model_familia_m
+msgid "familia.m"
+msgstr ""
