@@ -28,7 +28,7 @@
     'license': 'AGPL-3',
     'category': 'Extra Tools',
     'summary': '.',
-    'depends': ['terceros'],
+    'depends': ['1_terceros',"2_terceros_agregar_eliminar_campos"],
     'data': [
               'views/familia_m_views.xml',
             ],
